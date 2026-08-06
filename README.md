@@ -2,64 +2,38 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:030711,50:0a192f,100:112240&text=LEONARDO%20CHRISTO&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;SOFTWARE+DEVELOPER;PHP+%7C+LARAVEL+%7C+PYTHON;AI+%7C+SOFTWARE+ENGINEERING;WELCOME"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=QA+Analyst+%26+Developer+Jr.;PHP+%7C+Laravel+%7C+Python;API+Testing+%7C+Data+Quality+%7C+SQL;HealthTech+%7C+Porto+Alegre%2C+BR;Welcome+%F0%9F%91%8B"/>
 
 </div>
 
 ---
 
-## 🤖 AI CORE
-
-```bash
-╭────────────────────────────╮
-│        SYSTEM v2.0         │
-╰────────────────────────────╯
-
-Initializing system...
-
-████████████████████ 100%
-
-✔ Developer detected
-✔ Creativity enabled
-✔ Code engine activated
-✔ Projects loaded
-
-STATUS: ONLINE 🚀
-```
-
----
-
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
 ```javascript
 const Leonardo = {
   name: "Leonardo Christo",
-  roles: ["Software Developer", "QA Analyst"],
+  roles: ["QA Analyst", "Software Developer Jr."],
   location: "Porto Alegre, Brazil 🇧🇷",
   domain: "HealthTech",
-  
+
   focus: [
     "Ensuring end-to-end product stability",
     "Bridging the gap between Product, Dev, and Client"
   ],
-
   qa_skills: [
     "Functional & Regression Testing",
     "Smoke & Exploratory Testing",
     "API Testing (Postman/Insomnia)",
     "UAT & Integration Testing"
   ],
-
   data_analysis: [
-    "SQL",
-    "DBeaver",
+    "SQL", "DBeaver",
     "Data Validation",
     "Data Extraction & Reporting"
   ],
-
-  tools: ["Jira", "SDLC"],
-
-  passion: "Building bug-free digital experiences"
+  tools: ["Jira", "Git", "Laravel Horizon", "DBeaver"],
+  passion: "Solving real problems, whatever it takes"
 }
 ```
 
