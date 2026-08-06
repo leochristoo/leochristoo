@@ -1,44 +1,111 @@
-## 📊 Estatísticas
+<div align="center">
 
-![Metrics](./metrics.terminal.svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:030711,50:0a192f,100:112240&text=LEONARDO%20CHRISTO&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;SOFTWARE+DEVELOPER;PHP+%7C+LARAVEL+%7C+PYTHON;AI+%7C+SOFTWARE+ENGINEERING;WELCOME"/>
 
-## 🛠 Stack
-
-**Back-end**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Front-end**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat&logo=laravel&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-
-**Testes & Qualidade**
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-
-**Cloud & Dados**
-
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat&logoColor=white)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+</div>
 
 ---
 
-## 📫 Contato
+## 🤖 AI CORE
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-christo-098243247)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:leonardochristodev@gmail.com)
+```bash
+╭────────────────────────────╮
+│        SYSTEM v2.0         │
+╰────────────────────────────╯
+
+Initializing system...
+
+████████████████████ 100%
+
+✔ Developer detected
+✔ Creativity enabled
+✔ Code engine activated
+✔ Projects loaded
+
+STATUS: ONLINE 🚀
+```
+
+---
+
+## 👩‍💻 About Me
+
+```javascript
+const Leonardo = {
+  name: "Leonardo Christo",
+  roles: ["Software Developer", "QA Analyst"],
+  location: "Porto Alegre, Brazil 🇧🇷",
+  domain: "HealthTech",
+  
+  focus: [
+    "Ensuring end-to-end product stability",
+    "Bridging the gap between Product, Dev, and Client"
+  ],
+
+  qa_skills: [
+    "Functional & Regression Testing",
+    "Smoke & Exploratory Testing",
+    "API Testing (Postman/Insomnia)",
+    "UAT & Integration Testing"
+  ],
+
+  data_analysis: [
+    "SQL",
+    "DBeaver",
+    "Data Validation",
+    "Data Extraction & Reporting"
+  ],
+
+  tools: ["Jira", "SDLC"],
+
+  passion: "Building bug-free digital experiences"
+}
+```
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,python,mysql,git,github,vscode,docker&perline=8"/>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- Estatísticas de Streak e Ofensiva -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=leochristoo&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- Gráfico de Atividade de Contribuição -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leochristoo&bg_color=030711&color=ffffff&line=58A6FF&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌎 Connect With Me
+
+<div align="center">
+
+<a href="mailto:leonardochristodev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://linkedin.com/in/leonardo-christo-098243247/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
+
+---
