@@ -55,16 +55,13 @@ const Leonardo = {
 
 ![Metrics](./metrics.terminal.svg)
 
-<br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=leochristoo&theme=tokyonight&hide_border=true"/>
 
-<br>
+<br><br>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leochristoo&bg_color=030711&color=ffffff&line=58A6FF&point=ffffff&area=true&hide_border=true"/>
 
 </div>
-
 ---
 
 ## 🌎 Connect With Me
