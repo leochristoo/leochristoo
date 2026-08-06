@@ -14,4 +14,4 @@ jobs:
           filename: metrics.terminal.svg
           base: header, activity, metadata
           extras_css: |
-            .footer { display: none }
+            footer { display: none }
